@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My project2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="date">date</string>
+    <string name="serving_date_and_times">Serving Date and Times:</string>
+    <string name="_13_07_2015_12_32_am">13-07-2015 12.32 AM</string>
+    <string name="selena">Selena</string>
+    <string name="who_s_eating">Who\'s Eating:</string>
+    <string name="cuisine">Cuisine:</string>
+</resources>
